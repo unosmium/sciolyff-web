@@ -1,0 +1,12 @@
+{
+  "name": "sciolyff-web",
+  "collaborators": [
+    "Em Zhan <zqianem@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "Cargo.toml",
+    "Cargo.lock",
+    "src/lib.rs"
+  ]
+}
