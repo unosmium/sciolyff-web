@@ -354,7 +354,7 @@ dependencies = [
 [[package]]
 name = "sciolyff"
 version = "0.12.0"
-source = "git+https://github.com/unosmium/sciolyff-rust#a581b6f30ad23727dfc174e5a59f59878934d130"
+source = "git+https://github.com/unosmium/sciolyff-rust#b2c6db9d86b05a4f004b7c391d67611db1f8ab66"
 dependencies = [
  "itertools",
  "lazy_static",
