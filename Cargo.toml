@@ -13,3 +13,6 @@ crate-type = ["cdylib"]
 [dependencies]
 wasm-bindgen = "0.2.63"
 sciolyff = { git = "https://github.com/unosmium/sciolyff-rust" }
+
+[package.metadata.wasm-pack.profile.release]
+wasm-opt = ["-Oz", "--enable-mutable-globals"]
